@@ -1,0 +1,5 @@
+{
+  "name": "What's Poppin'?",
+  "description": "Real-time nightlife discovery app with live crowd levels, check-ins, and trending spots.",
+  "requestFramePermissions": ["geolocation"]
+}
