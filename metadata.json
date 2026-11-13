@@ -1,5 +1,5 @@
 {
   "name": "What's Poppin'?",
-  "description": "The Core Coordinator for the Plateau region. Real-time nightlife vibe map for Enumclaw, Buckley, and Maple Valley. Cyberpunk aesthetics, Chaos Hour triggers, and LEGEND status tracking.",
+  "description": "A Chaotic Minds Collective (CMC) app: the Core Coordinator for the Plateau region. Real-time nightlife vibe map for Enumclaw, Buckley, and Maple Valley. Cyberpunk aesthetics, Chaos Hour triggers, and LEGEND status tracking.",
   "requestFramePermissions": ["geolocation"]
 }
