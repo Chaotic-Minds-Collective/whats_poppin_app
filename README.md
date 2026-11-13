@@ -2,9 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# What's Poppin'? — Chaotic Minds Collective App
 
-This contains everything you need to run your app locally.
+**What's Poppin'?** is a real-time nightlife and local-vibe map for Enumclaw, Buckley, and Maple Valley. It is a Chaotic Minds Collective (CMC) app project.
+
+This repository contains the application source and setup instructions.
 
 View your app in AI Studio: https://ai.studio/apps/aec32c35-8090-4f6f-9aaf-5ad31c2c5554
 
